@@ -1,0 +1,18 @@
+
+body {
+  text-align: center;
+}
+
+#temp {
+  display: inline;
+  margin-right: 1px;
+}
+
+#iconCF {
+  margin-top: 10px;
+  font-size: 40px;
+}
+
+#convertTemp:hover {
+  cursor: pointer;
+}
